@@ -162,3 +162,37 @@
     font-weight:600
   }
 }
+
+.container-cards
+{
+  background-color:#FFFAFA;
+  
+  
+}
+
+.sombra
+{
+  text-shadow: 0.3px 0.3px;
+}
+
+.fundo
+{
+  background-image: url(img/estudantes_certa.png);
+  background-repeat: no-repeat;
+  background-size:100%;
+  
+  
+}
+
+
+.borda
+{
+  border: none;
+  
+}
+
+
+
+
+
+
